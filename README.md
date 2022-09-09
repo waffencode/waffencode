@@ -20,7 +20,7 @@ About me:
 - 📚 Studying Software Engineering at SPbSUT. 
 - 🔍 Interested in: .NET, C#, desktop apps development.
 
-[![Waffencode's GitHub stats](https://github-readme-stats.vercel.app/api?username=waffencode&hide=stars,issues,contribs&show_icons=true&hide_rank=true)](https://github.com/waffencode/github-readme-stats)
+[![Waffencode's GitHub stats](https://github-readme-stats.vercel.app/api?username=waffencode&hide=stars,contribs&show_icons=true&hide_rank=true)](https://github.com/waffencode/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=waffencode&layout=compact)](https://github.com/waffencode/github-readme-stats)
 
 Contact me:
