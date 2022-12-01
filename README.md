@@ -31,7 +31,7 @@ Contact me:
 
 #### (Group project) Document App (https://github.com/CSharp-Extracurricular/DocumentApp)
 
-> Information system for storage and processing documents for students and scientists. Software design approach: domain-driven design. Stack: C#, ASP.NET, Blazor, Entity Framework.
+> Service for storage and processing information about scientific publications for students and scientists. Software design approach: domain-driven design. Stack: C#, ASP.NET, Blazor, Entity Framework.
 
 #### Study Planner (https://github.com/waffencode/Study-Planner)
 
