@@ -36,3 +36,7 @@ Contact me:
 #### Study Planner (https://github.com/waffencode/Study-Planner)
 
 > Simple task manager built on .NET WPF.
+
+#### wffn-ems (https://github.com/waffencode/wffn-ems)
+
+> CLI enterprise management system (C++).
