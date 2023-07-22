@@ -29,14 +29,14 @@ Contact me:
 
 ### My projects
 
-#### (Group project) Document App (https://github.com/CSharp-Extracurricular/DocumentApp)
+#### 📚 (Group project) Document App (https://github.com/CSharp-Extracurricular/DocumentApp)
 
 > Service for storage and processing information about scientific publications for students and scientists. Software design approach: domain-driven design. Stack: C#, ASP.NET, Blazor, Entity Framework.
 
-#### Study Planner (https://github.com/waffencode/Study-Planner)
+#### 📓 Study Planner (https://github.com/waffencode/Study-Planner)
 
 > Simple task manager built on .NET WPF.
 
-#### wffn-ems (https://github.com/waffencode/wffn-ems)
+#### 📈 WffnEmsMaui (https://github.com/waffencode/WffnEmsMaui)
 
-> CLI enterprise management system (C++).
+> Enterprise management system (C#, .NET MAUI).
