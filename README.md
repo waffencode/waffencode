@@ -39,4 +39,4 @@ Contact me:
 
 #### 📈 WffnEmsMaui (https://github.com/waffencode/WffnEmsMaui)
 
-> Enterprise management system (C#, .NET MAUI).
+> ⚒️ Work in progress. Enterprise management system (C#, .NET MAUI).
