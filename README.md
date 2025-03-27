@@ -29,7 +29,7 @@ Contact me:
 
 ### My projects
 
-#### University (https://github.com/waffencode/University) + (https://github.com/waffencode/university-frontend)
+#### 🧑‍🎓 University (https://github.com/waffencode/University) + (https://github.com/waffencode/university-frontend)
 
 > Open source student information system.
 
