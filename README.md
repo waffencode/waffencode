@@ -29,6 +29,13 @@ Contact me:
 
 ### My projects
 
+#### University (https://github.com/waffencode/University) + (https://github.com/waffencode/university-frontend)
+
+> Open source student information system.
+
+[![CSharp, EFCore, ASP.NET](https://skillicons.dev/icons?i=cs,dotnet,docker)](https://skillicons.dev/)
+[![React, TS, Tailwind](https://skillicons.dev/icons?i=react,ts,tailwind)](https://skillicons.dev/)
+
 #### 📚 (Group project) Document App (https://github.com/CSharp-Extracurricular/DocumentApp)
 
 > Service for storage and processing information about scientific publications for students and scientists. Software design approach: domain-driven design. Stack: C#, ASP.NET, Blazor, Entity Framework.
