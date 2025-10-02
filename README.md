@@ -17,8 +17,10 @@ Here are some ideas to get you started:
 
 About me:
 
-- 📚 Bachelor of Software Engineering (SPbSUT, 2025). 
-- 🔍 Interested in: .NET, C#, React 👀, desktop & web apps development.
+- 💼 Currently: .NET Developer at RIVS-Digit
+- 📚 Bachelor of Software Engineering (SPbSUT, 2025)
+- 🔍 Interested in: .NET, C#, React 👀, desktop & web apps development
+- ✈️ Flight simulator enthusiast
 
 [![Waffencode's GitHub stats](https://github-readme-stats.vercel.app/api?username=waffencode&hide=stars,contribs&show_icons=true&hide_rank=true)](https://github.com/waffencode/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=waffencode&layout=compact)](https://github.com/waffencode/github-readme-stats)
